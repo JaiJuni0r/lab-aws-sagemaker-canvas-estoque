@@ -14,6 +14,7 @@ Construção do projeto
 
 Configure as variáveis de entrada e saída de acordo com os dados disponíveis.
 Inicie o processo de treinamento do modelo.
+
 ![image](https://github.com/user-attachments/assets/d6918108-8aed-445b-8c5d-8b9810365682)
 
 
@@ -21,6 +22,7 @@ Análise do projeto
 
 Avalie as métricas de desempenho do modelo obtidas durante o treinamento.
 Identifique as características fundamentais que influenciam as previsões geradas.
+
 ![image](https://github.com/user-attachments/assets/7513976d-bb6c-4775-a322-562eeaeccb83)
 
 Previsão do projeto
@@ -32,7 +34,8 @@ Por exemplo, ao escolher o produto 1, temos as metricas de previsões.
 Sendo: 
 - P10 uma previsão pessimista; 
 - P50 uma previsão neutra;
-- P90 uma previsão otimista. 
+- P90 uma previsão otimista.
+- 
 ![image](https://github.com/user-attachments/assets/4a33915a-abcf-4b1a-98dc-9f839a58ba89)
 
 📈 Análise das Métricas
