@@ -35,7 +35,7 @@ Sendo:
 - P10 uma previsão pessimista; 
 - P50 uma previsão neutra;
 - P90 uma previsão otimista.
-- 
+  
 ![image](https://github.com/user-attachments/assets/4a33915a-abcf-4b1a-98dc-9f839a58ba89)
 
 📈 Análise das Métricas
